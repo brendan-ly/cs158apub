@@ -1,0 +1,9 @@
+My uuid is a4cefc32-7630-4c69-8e18-6926e24ca191
+Sent: uuid=a4cefc32-7630-4c69-8e18-6926e24ca191, flag=0
+Received: uuid=e414724b-8443-4837-a19b-00c52861559c, flag=0, greater, 0
+Sent: uuid=e414724b-8443-4837-a19b-00c52861559c, flag=0
+Received: uuid=e5593675-dd87-42ab-ab0f-43f8ed666e34, flag=0, greater, 0
+Sent: uuid=e5593675-dd87-42ab-ab0f-43f8ed666e34, flag=0
+Received: uuid=e5593675-dd87-42ab-ab0f-43f8ed666e34, flag=1, greater, 0
+Sent: uuid=e5593675-dd87-42ab-ab0f-43f8ed666e34, flag=1
+leader is e5593675-dd87-42ab-ab0f-43f8ed666e34
