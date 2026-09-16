@@ -15,9 +15,13 @@ python myleprocess.py config3.txt log3.txt
 
 Execution Example:
 
-![](/Users/brendanly/Desktop/Screenshot 2026-09-15 at 9.50.05 PM.png)
+<img width="1218" height="270" alt="Screenshot 2026-09-15 at 9 50 05 PM" src="https://github.com/user-attachments/assets/2fdc7806-e6d9-4734-a768-a13a5a4b80c2" />
 
-![](/Users/brendanly/Desktop/Screenshot 2026-09-15 at 9.50.13 PM.png)
 
-![](/Users/brendanly/Desktop/Screenshot 2026-09-15 at 9.50.20 PM.png)
+<img width="788" height="195" alt="Screenshot 2026-09-15 at 9 50 13 PM" src="https://github.com/user-attachments/assets/3167f1eb-a564-481e-affc-6d5b88869254" />
+
+
+<img width="1218" height="270" alt="Screenshot 2026-09-15 at 9 50 05 PM" src="https://github.com/user-attachments/assets/baf54eff-542e-4382-b4f4-0901e73a240a" />
+
+
 
