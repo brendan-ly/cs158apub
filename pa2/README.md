@@ -21,7 +21,8 @@ Execution Example:
 <img width="788" height="195" alt="Screenshot 2026-09-15 at 9 50 13 PM" src="https://github.com/user-attachments/assets/3167f1eb-a564-481e-affc-6d5b88869254" />
 
 
-<img width="1218" height="270" alt="Screenshot 2026-09-15 at 9 50 05 PM" src="https://github.com/user-attachments/assets/baf54eff-542e-4382-b4f4-0901e73a240a" />
+<img width="803" height="235" alt="Screenshot 2026-09-15 at 9 50 20 PM" src="https://github.com/user-attachments/assets/9b4a5a7f-6ae3-4491-bc05-d7b7793478be" />
+
 
 
 
